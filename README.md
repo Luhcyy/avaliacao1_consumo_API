@@ -5,7 +5,12 @@
 ### Descrição
 
 <p>Este programa Python permite converter valores entre diferentes moedas, utilizando a API Exchange Rates.</p>
-
+<br>
+<p>As tecnologias usadas foram:</p>
+<ul>
+  <li>Python3</li>
+  <li>Exchange Rates API</li>
+</ul>
 <hr>
 
 ### Funcionalidades
@@ -51,4 +56,36 @@
   <li>Abra um terminal ou prompt de comando.</li>
   <li>Navegue até o diretório do projeto.</li>
   <li>Execute o seguinte comando:</li>
+</ul>
+
+```
+python conversor.py
+```
+<h3>Exemplos de Uso:</h3>
+
+```
+python conversor.py
+
+--- Conversor de Moedas ---
+
+1. Converter Moeda
+2. Sair
+
+Digite a opção desejada: 1
+
+Digite a moeda de origem (EUR, USD, BRL): USD
+Digite a moeda de destino (EUR, USD, BRL): EUR
+Digite o valor a converter: 100
+
+100.00 USD equivale a 92.20 EUR
+
+Digite a opção desejada: 2
+
+Saindo do conversor de moedas...
+```
+
+<h4>Observações</h4>
+<ul>
+  <li>A taxa de câmbio é obtida em tempo real da API Exchange Rates.</li>
+  <li>O código pode ser adaptado para incluir mais moedas ou funcionalidades.</li>
 </ul>
