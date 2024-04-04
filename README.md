@@ -38,7 +38,7 @@
 <h3> Requisitos</h3>
 <ul>
   <li>Python 3.x instalado</li>
-  <li>Biblioteca requests instalada: ```pip install requests```</li>
+  <li>Biblioteca requests instalada: pip install requests</li>
   <li>Chave API da Exchange Rates: https://www.exchangerate-api.com/</li>
 </ul>
 <hr>
