@@ -44,7 +44,7 @@
 </ul>
 <h4>Configure o Script: </h4>
 <ul>
-  <li>Abra o arquivo config.py e substitua SEU_API_KEY_AQUI pela sua chave API.</li>
+  <li>Abra o arquivo config.py e substitua SUA_API_KEY_AQUI pela sua chave API.</li>
 </ul>
 <h4>Execute o Script: </h4>
 <ul>
