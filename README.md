@@ -23,9 +23,9 @@
 </ul>
 <h4> Menu interativo:</h4>
 <ul>
-  <li>Converta valores entre EUR, USD e BRL.</li>
-  <li>Insira o valor a ser convertido e a moeda de origem e destino.</li>
-  <li>O código trata erros de obtenção da taxa de câmbio.</li>
+  <li>Escolha entre converter moeda ou sair do programa.</li>
+  <li>O menu utiliza um loop while True para repetir até que o usuário escolha sair.</li>
+  <li>A função mostrar_menu exibe as opções e valida a entrada do usuário.</li>
 </ul>
 <h4> Tratamento de erros:</h4>
 <ul>
