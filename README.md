@@ -5,6 +5,7 @@
 ### Descrição
 
 <p>Este programa Python permite converter valores entre diferentes moedas, utilizando a API Exchange Rates.</p>
+<p>Professor aplicante: <a href: https://github.com/orlandosaraivajr>Orlando Saraiva jr</a></p>
 <br>
 <p>As tecnologias usadas foram:</p>
 <ul>
